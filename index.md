@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Epsilon Email - 21-BTD-0197-Chicago Email Prospecting 
 
 You can use the [editor on GitHub](https://github.com/joshuadodd/chicagoEmailProspecting.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
